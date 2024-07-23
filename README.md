@@ -23,4 +23,4 @@ This is a simple Weather app designed to provide you with accurate weather forec
 
 ## Live Demo
 
-Check out the live demo [here](https://mohammed-fawzzi.github.io/WeatherApp/).
+Check out the live demo [here](https://mohammed-fawzzi.github.io/Weather-App/).
